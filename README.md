@@ -1,6 +1,4 @@
-# gh-pages Hello World example
-
-This example shows the most basic idea behind Next. We have 2 pages: `pages/index.js` and `pages/about.js`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities.
+# Portfolio website showcasing previous and ongoing projects built with NextJs
 
 ## How to use
 
@@ -26,20 +24,4 @@ Edit `next.config.js` and replace `'Next-gh-page-example'` by your project name.
 
 ```bash
 npm run deploy
-```
-
-Test it:
-
-Replace `<github-user-name>` and `<github-project-name>`
-
-```bash
-https://<github-user-name>.github.io/<github-project-name>/
-```
-
-Example:
-
-```bash
-https://github.com/thierryc/Next-gh-page-example/
-
-https://thierryc.github.io/Next-gh-page-example/
 ```

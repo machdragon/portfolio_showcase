@@ -18,13 +18,13 @@ const Footer = () => {
           <Slogan>Innovating - today and tomorrow.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-        <SocialIcons href="https://github.com/machdragon">
+        <SocialIcons href="https://github.com/machdragon" target="_blank" rel="noopener noreferrer">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/alexcheung4c/">
+      <SocialIcons href="https://www.linkedin.com/in/alexcheung4c/" target="_blank" rel="noopener noreferrer">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.tradingview.com/u/machdragon/#published-scripts">
+      <SocialIcons href="https://www.tradingview.com/u/machdragon/#published-scripts" target="_blank" rel="noopener noreferrer">
         <AiOutlineLineChart size="3rem" />
       </SocialIcons>
         </SocialContainer>

@@ -1,0 +1,51 @@
+export const projects = [
+  {
+    title: 'Axe Cap Terminal',
+    description: "Built an interactive full stack Bloomberg Terminal style webapp using Streamlit on the frontend for data visualization with caching along with Python on the backend for retrieving financial market and sentiment data using APIs to create meaningful insights for traders.",
+    image: '/images/1.png',
+    tags: ['Python', 'Streamlit'],
+    source: 'https://github.com/machdragon/axe_cap_terminal',
+    visit: 'https://share.streamlit.io/machdragon/axe_cap_terminal/main/terminal.py',
+    id: 0,
+  },
+  {
+    title: 'Numerai Machine Learning Contributor',
+    description: "Top Numerai participant, contributed weekly machine learning ensemble model submissions built with XGBoost and Tensorflow Random Forest and Neural Networks using an automated AWS data pipeline utilizing Python, APIs and SQL, achieved over 150% in quarterly market-neutral returns for a hedge fund startup with $150M AUM",
+    image: '/images/2.png',
+    tags: ['Python', 'XGBoost', 'TensorFlow', 'SQL', 'Docker'],
+    source: 'https://colab.research.google.com/drive/1t1HeqeRq6xXPFS0ZKXKTljcRh8lq1SiP?usp=sharing',
+    visit: 'https://numer.ai/',
+    id: 1,
+  },
+  {
+    title: 'Calend3.eth',
+    description: "Implemented a Calendly style scheduler on the Ethereum blockchain using React.js with Material UI for the frontend, communicating with a Solidity backend using Ethers.js; Enabling users to charge cryptocurrency for scheduling bookings via MetaMask wallet and integration with Twilio notifications using Alchemy webhooks. ⚠️Requires MetaMask Wallet extension to access",
+    image: '/images/3.png',
+    tags: ['React', 'Solidity', 'Twilio', 'Ethereum'],
+    source: 'https://github.com/machdragon/calend3eth',
+    visit: 'https://machdragon.github.io/calend3eth/',
+    id: 2,
+  },
+  {
+    title: 'Emote NFT Marketplace',
+    description: "This is a NFT marketplace built with Javascript, Node and Solidity that allows users to create NFT emotes, upload them to the IPFS and list their NFTs for other users to purchase. ⚠️Requires CeloExtensionWallet to interact with site features",
+    image: '/images/4.png',
+    tags: ['Javascript', 'Node', 'Solidity'],
+    source: 'https://github.com/machdragon/EmoteShopMacha',
+    visit: 'https://machdragon.github.io/EmoteShopMacha/',
+    id: 3,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2015, text: 'Started my journey in Computer Science'},
+  { year: 2016, text: 'Became interested in investing and pursued a degree in Economics'},
+  { year: 2017, text: 'Discovered Statistical approaches blending progamming with Economic data'},
+  { year: 2018, text: 'Utilized technical skills to compile and analyze database of tournament matches'},
+  { year: 2018, text: 'Became 2018 Yugioh North American Champion and placed 5th place global'},
+  { year: 2020, text: 'Continued to learn new systematic approaches to investing'},
+  { year: 2020, text: 'Graduated with major Economics and minor Statistics with focus Statistical Learning on Economic Data'},
+  { year: 2021, text: 'Developed tools for traders and implemented automated trading systems'},
+  { year: 2021, text: 'Contributed weekly Machine Learning model submissions to Numerai'},
+  { year: 2022, text: 'Joined JDA program at NPower Canada to better prepare for a career in Data'},
+];

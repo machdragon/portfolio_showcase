@@ -40,7 +40,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2015, text: 'Started my journey in Computer Science'},
   { year: 2016, text: 'Became interested in investing and pursued a degree in Economics'},
-  { year: 2017, text: 'Discovered Statistical approaches blending progamming with Economic data'},
+  { year: 2017, text: 'Discovered Statistical approaches blending programming with Economic data'},
   { year: 2018, text: 'Utilized technical skills to compile and analyze database of tournament matches'},
   { year: 2018, text: 'Became 2018 Yugioh North American Champion and placed 5th place global'},
   { year: 2020, text: 'Continued to learn new systematic approaches to investing'},

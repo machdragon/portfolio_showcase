@@ -16,6 +16,7 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Innovating - today and tomorrow.</Slogan>
+          <div>Made with ❤️ using NextJs</div>
         </CompanyContainer>
         <SocialContainer>
         <SocialIcons href="https://github.com/machdragon" target="_blank" rel="noopener noreferrer">

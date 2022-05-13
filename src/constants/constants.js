@@ -14,7 +14,7 @@ export const projects = [
     image: 'static/images/2.png',
     tags: ['Python', 'XGBoost', 'TensorFlow', 'SQL', 'Docker'],
     source: 'https://colab.research.google.com/drive/1t1HeqeRq6xXPFS0ZKXKTljcRh8lq1SiP?usp=sharing',
-    visit: 'https://numer.ai/',
+    visit: 'https://numerai.fund/',
     id: 1,
   },
   {
